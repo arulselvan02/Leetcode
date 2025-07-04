@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/arulselvan02/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/arulselvan02/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
