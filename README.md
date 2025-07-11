@@ -68,8 +68,18 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
