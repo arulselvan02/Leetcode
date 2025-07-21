@@ -94,6 +94,7 @@
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/arulselvan02/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Simulation
 |  |
 | ------- |
