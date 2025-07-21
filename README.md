@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
+| [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Simulation
 |  |
 | ------- |
