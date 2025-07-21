@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/arulselvan02/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## Simulation
 |  |
