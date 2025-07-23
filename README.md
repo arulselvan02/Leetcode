@@ -51,6 +51,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/arulselvan02/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -111,4 +113,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
