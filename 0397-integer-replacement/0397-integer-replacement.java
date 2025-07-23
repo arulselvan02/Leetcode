@@ -1,13 +1,19 @@
 class Solution {
     public int integerReplacement(int n) {
-        return helper((long) n, 0);
-    }
-
-    private int helper(long n, int c) {
-        if (n == 1) return c;
-        if (n % 2 == 0)
-            return helper(n / 2, c + 1);
-        else
-            return Math.min(helper(n + 1, c + 1), helper(n - 1, c + 1));
+        int cnt = 0;
+        long num = n;
+        while (num > 1) {
+            if (num % 2 == 0) {
+                num /= 2;
+            } else {
+                if ((num & 2) == 2 && num != 3) {
+                    num++;
+                } else {
+                    num--;
+                }
+            }
+            cnt++;
+        }
+        return cnt;
     }
 }
