@@ -3,7 +3,7 @@ class Solution {
         int a[] = new int[1001];
         int[] max, min;
 
-        if(n1.length < n2.length) {
+        if (n1.length < n2.length) {
             max = n2;
             min = n1;
         } else {
@@ -14,17 +14,21 @@ class Solution {
         for (int i : max)
             a[i]++;
 
-        int[] result = new int[min.length];
-        int c = 0;
+        int[] temp = new int[min.length];
+        int count = 0;
 
         for (int i : min) {
             if (a[i] > 0) {
-                result[c++] = i;
-                a[i]--;  
+                temp[count++] = i;
+                a[i]--;
             }
         }
 
-        
-        return java.util.Arrays.copyOfRange(result, 0, c);
+        int[] result = new int[count];
+        for (int i = 0; i < count; i++) {
+            result[i] = temp[i];
+        }
+
+        return result;
     }
 }
