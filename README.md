@@ -6,6 +6,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arulselvan02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0857-positions-of-large-groups](https://github.com/arulselvan02/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [3396-valid-word](https://github.com/arulselvan02/Leetcode/tree/master/3396-valid-word) |
@@ -42,6 +44,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arulselvan02/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
