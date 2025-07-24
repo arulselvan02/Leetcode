@@ -8,6 +8,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arulselvan02/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1287-distance-between-bus-stops](https://github.com/arulselvan02/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
+| [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
