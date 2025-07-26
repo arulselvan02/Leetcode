@@ -78,6 +78,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/arulselvan02/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Tree
 |  |
 | ------- |
