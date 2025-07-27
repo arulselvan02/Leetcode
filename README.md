@@ -82,12 +82,14 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -105,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
@@ -120,9 +123,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
