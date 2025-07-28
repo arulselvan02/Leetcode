@@ -27,6 +27,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1287-distance-between-bus-stops](https://github.com/arulselvan02/Leetcode/tree/master/1287-distance-between-bus-stops) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/arulselvan02/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
@@ -109,6 +111,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/arulselvan02/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
