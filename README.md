@@ -73,6 +73,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/arulselvan02/Leetcode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/arulselvan02/Leetcode/tree/master/0584-find-customer-referee) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arulselvan02/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/arulselvan02/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
