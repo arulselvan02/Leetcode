@@ -73,6 +73,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/arulselvan02/Leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/arulselvan02/Leetcode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/arulselvan02/Leetcode/tree/master/0584-find-customer-referee) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arulselvan02/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
