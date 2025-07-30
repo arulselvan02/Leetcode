@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -132,6 +134,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
