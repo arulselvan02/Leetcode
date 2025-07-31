@@ -97,6 +97,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -104,17 +105,20 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
