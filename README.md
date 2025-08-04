@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -88,6 +89,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
