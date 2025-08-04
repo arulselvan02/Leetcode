@@ -10,6 +10,7 @@
 | [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
+| [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arulselvan02/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -33,6 +34,7 @@
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
+| [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1287-distance-between-bus-stops](https://github.com/arulselvan02/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
