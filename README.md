@@ -93,6 +93,7 @@
 | ------- |
 | [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arulselvan02/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
