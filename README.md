@@ -95,6 +95,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/arulselvan02/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Tree
@@ -139,6 +140,7 @@
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
@@ -184,4 +186,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
