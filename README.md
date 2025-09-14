@@ -30,6 +30,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/arulselvan02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/arulselvan02/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/arulselvan02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0397-integer-replacement](https://github.com/arulselvan02/Leetcode/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
