@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/arulselvan02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arulselvan02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/arulselvan02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -33,6 +34,7 @@
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/arulselvan02/Leetcode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/arulselvan02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/arulselvan02/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -199,4 +201,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arulselvan02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
