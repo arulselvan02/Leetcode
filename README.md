@@ -12,6 +12,7 @@
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/arulselvan02/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arulselvan02/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -38,6 +39,7 @@
 | [0463-island-perimeter](https://github.com/arulselvan02/Leetcode/tree/master/0463-island-perimeter) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [0940-fruit-into-baskets](https://github.com/arulselvan02/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/arulselvan02/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1287-distance-between-bus-stops](https://github.com/arulselvan02/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
