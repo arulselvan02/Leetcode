@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulselvan02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/arulselvan02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/arulselvan02/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/arulselvan02/Leetcode/tree/master/0118-pascals-triangle) |
@@ -96,6 +97,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulselvan02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/arulselvan02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/arulselvan02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arulselvan02/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
