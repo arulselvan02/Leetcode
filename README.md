@@ -44,6 +44,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/arulselvan02/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1287-distance-between-bus-stops](https://github.com/arulselvan02/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/arulselvan02/Leetcode/tree/master/1390-four-divisors) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -154,6 +155,7 @@
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/arulselvan02/Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/arulselvan02/Leetcode/tree/master/1448-maximum-69-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/arulselvan02/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/arulselvan02/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
