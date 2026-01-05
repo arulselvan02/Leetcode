@@ -137,6 +137,7 @@
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/arulselvan02/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0365-water-and-jug-problem](https://github.com/arulselvan02/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/arulselvan02/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/arulselvan02/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/arulselvan02/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/arulselvan02/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/arulselvan02/Leetcode/tree/master/0463-island-perimeter) |
 | [0833-bus-routes](https://github.com/arulselvan02/Leetcode/tree/master/0833-bus-routes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/arulselvan02/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -156,6 +158,7 @@
 | [0231-power-of-two](https://github.com/arulselvan02/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arulselvan02/Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/arulselvan02/Leetcode/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/arulselvan02/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/arulselvan02/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/arulselvan02/Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/arulselvan02/Leetcode/tree/master/1448-maximum-69-number) |
