@@ -62,6 +62,7 @@
 | [0205-isomorphic-strings](https://github.com/arulselvan02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/arulselvan02/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/arulselvan02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/arulselvan02/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0857-positions-of-large-groups](https://github.com/arulselvan02/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [3396-valid-word](https://github.com/arulselvan02/Leetcode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/arulselvan02/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
