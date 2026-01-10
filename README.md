@@ -49,6 +49,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arulselvan02/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/arulselvan02/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/arulselvan02/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3151-special-array-i](https://github.com/arulselvan02/Leetcode/tree/master/3151-special-array-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/arulselvan02/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Matrix
 |  |
